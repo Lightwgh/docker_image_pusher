@@ -8,3 +8,4 @@ nginx
 debian
 justincormack/nsenter1
 openjdk:11.0-jre-buster
+nacos

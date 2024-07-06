@@ -9,3 +9,4 @@ debian
 justincormack/nsenter1
 openjdk:11.0-jre-buster
 nacos/nacos-server
+gitlab/gitlab-ce:14.1.2-ce.0

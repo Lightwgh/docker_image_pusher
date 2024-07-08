@@ -12,4 +12,4 @@ nacos/nacos-server
 gitlab/gitlab-ce:14.1.2-ce.0
 twang2218/gitlab-ce-zh
 gitlab/gitlab-ce
-gogs/gogs
+gogs/gogs:0.11.91
